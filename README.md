@@ -27,7 +27,7 @@
 ### 📌 Step 1: Clone
 
 ```bash
-git clone https://github.com/yourusername/rom-toolkit-python.git
+https://github.com/Gustyx-Power/Xtra-AndroidROM-Toolkit.git
 cd Xtra-AndroidROM-Toolkit
 ```
 
