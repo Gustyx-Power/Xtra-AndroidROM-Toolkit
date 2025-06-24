@@ -28,7 +28,7 @@
 
 ```bash
 git clone https://github.com/yourusername/rom-toolkit-python.git
-cd rom-toolkit-python
+cd Xtra-AndroidROM-Toolkit
 ```
 
 ### ⚙️ Step 2: Install Dependencies
